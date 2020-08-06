@@ -1,4 +1,4 @@
-<p align="center"><a href="https://filoupegase.github.io/La-chouette-agence/" target="_blank" rel="noopener noreferrer"><img width="100" src="img/logo.png" alt="La chouette agence logo"></a></p>
+<p align="center"><a href="https://filoupegase.github.io/La_chouette_agence/" target="_blank" rel="noopener noreferrer"><img width="100" src="img/logo.png" alt="La chouette agence logo"></a></p>
 
 # La chouette agence
 
