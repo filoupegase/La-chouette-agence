@@ -95,6 +95,19 @@ a:hover {
     background-size: 280px 280px;
 }
 
+.citation {
+    font-size: 2.5rem;
+}
+
+.citation__footer {
+    font-size: 1.8rem;
+    color: #000;
+}
+
+.padd {
+    margin-bottom: 30px;
+}
+
 .b-parallax {
     background-attachment: fixed;
 }
@@ -651,7 +664,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    color: black!important;
 }
 
 .container {
@@ -686,7 +699,7 @@ p {
 }
 
 .h1 {
-    font-size: 20px;
+    font-size: 25px;
     font-family: "Open Sans";
 }
 
@@ -705,7 +718,7 @@ p {
 }
 
 h2 {
-    font-size: 22px;
+    font-size: 25px;
     line-height: 1.4em;
 }
 
@@ -822,7 +835,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.bmp");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
