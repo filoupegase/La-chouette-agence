@@ -4,7 +4,7 @@
 
 ###### Github Pages
 
-https://filoupegase.github.io/La-chouette-agence/
+https://filoupegase.github.io/La_chouette_agence/
 
 ### Projet 4 OpenClassrooms
 
